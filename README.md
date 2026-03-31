@@ -160,30 +160,31 @@ Resultado:
 Os erros comuns ao utilizar as estratégias de Barra Elefante e FAB4 no método de Oliver Velez e Ariane Campolim geralmente derivam da busca por segurança excessiva, falhas de localização técnica e indisciplina no gerenciamento de risco.
 
 Erros Comuns na Barra Elefante
+
 Buscar Stops "Baratos": Um dos principais erros de iniciantes é tentar encontrar barras pequenas para ter stops curtos; no entanto, barras pequenas não oferecem informações sobre quem está vencendo a disputa, enquanto as barras grandes (elefantes) têm maior probabilidade de continuidade, apesar do stop ser mais caro
-.
+
 Entrada Tardia (Exaustão): O trader muitas vezes hesita na barra de ignição inicial e acaba entrando após o movimento já ter andado muito, correndo o risco de comprar ou vender uma barra de exaustão no final da tendência
-.
+
 Ignorar a Localização em Relação às Médias: Tentar comprar uma barra elefante quando o preço está abaixo das médias (em tendência de baixa) ou vender quando está acima é considerado altamente arriscado e diminui drasticamente a assertividade
-.
+
 Operar em Lateralidade: A barra elefante tende a falhar quando o mercado está em zonas de congestão ou lateralização, pois o padrão exige deslocamento de preço e entrada de fluxo institucional para funcionar
-.
+
 Mover o Stop Loss por Esperança: Por causa do ego ou da relutância em aceitar a perda, muitos traders aumentam o valor do stop original quando a operação vai contra eles, esperando que o mercado "vire", o que foge completamente do plano operacional
-.
+
 Erros Comuns no FAB4 (Abertura)
 Operar na Trap Zone (Zona de Armadilha): Um erro frequente é tentar operar quando o preço abre entre os elementos do FAB4 (como entre a média de 20 e a de 200), onde o mercado costuma "enroscar" e lateralizar sem direção clara
-.
+
 Executar em Cenários de Mismatch: Ocorre quando o trader ignora a falta de combinação entre a abertura e a primeira barra; por exemplo, o mercado abre em GAP de alta (acima do FAB4), mas produz uma primeira barra vermelha de força vendedora, o que invalida a entrada imediata
-.
+
 Entrar com Médias "Largas" ou Distantes: Operar uma abertura quando o preço está muito longe da média de 200 ou quando as médias de 20 e 200 estão muito afastadas é perigoso, pois o mercado tende a retornar para comprimir essas médias novamente (função ímã)
-.
+
 Falta de Comparação de Tamanho: No mercado brasileiro, é um erro não comparar o tamanho da primeira barra do dia com as últimas barras do dia anterior; se a primeira barra não for significativamente maior e sólida, ela não possui a potência necessária para ser considerada uma ignição de FAB4
-.
+
 Erros de Mentalidade e Execução Geral
 Não Manter um Diário de Trades: Traders que não anotam suas operações falham em identificar padrões de erro recorrentes, como entrar antecipado demais sem a formação de um fundo claro ou ignorar a região de suporte/resistência
-.
+
 Misturar Tempos Gráficos para Stop e Alvo: É um erro grave entrar por um sinal no gráfico de 5 minutos, mas colocar o stop baseado no gráfico de 2 minutos (para ser mais barato) e o alvo no de 10 minutos (para ser maior); deve-se conduzir a operação inteira no tempo gráfico da entrada
-.
+
 Hesitação por Medo: O ser humano busca certeza e confirmação, mas no método Velez, quanto mais se espera pela confirmação, menor é a probabilidade de acerto e pior é o risco-retorno
 
 Aprendizado:
