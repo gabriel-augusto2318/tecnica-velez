@@ -9,9 +9,13 @@ O tema escolhido foi a técnica de trading de Oliver Velez, com foco nos princip
 Os principais objetivos deste estudo foram:
 
 Compreender os conceitos fundamentais da metodologia de Oliver Velez;
+
 Identificar padrões gráficos como FAB4, Bull 180, Bear 180 e Barra Elefante;
+
 Utilizar IA para aprofundar o entendimento das estratégias;
+
 Desenvolver pensamento crítico na análise de respostas geradas por IA;
+
 Criar um material de revisão estruturado para uso prático no trading.
 
 📚 Curadoria de Fontes
@@ -154,6 +158,7 @@ Quais são os erros comuns ao usar essas duas estratégias?
 
 Resultado:
 Os erros comuns ao utilizar as estratégias de Barra Elefante e FAB4 no método de Oliver Velez e Ariane Campolim geralmente derivam da busca por segurança excessiva, falhas de localização técnica e indisciplina no gerenciamento de risco.
+
 Erros Comuns na Barra Elefante
 Buscar Stops "Baratos": Um dos principais erros de iniciantes é tentar encontrar barras pequenas para ter stops curtos; no entanto, barras pequenas não oferecem informações sobre quem está vencendo a disputa, enquanto as barras grandes (elefantes) têm maior probabilidade de continuidade, apesar do stop ser mais caro
 .
@@ -182,28 +187,39 @@ Misturar Tempos Gráficos para Stop e Alvo: É um erro grave entrar por um sinal
 Hesitação por Medo: O ser humano busca certeza e confirmação, mas no método Velez, quanto mais se espera pela confirmação, menor é a probabilidade de acerto e pior é o risco-retorno
 
 Aprendizado:
+
 Interessante como ele utiliza e explica o sentimento humano nas operações, mesmo sendo uma inteligencia artifical. Com base nos materiais a IA conseguiu capta bem a questao das emoções no trading em relação à hesitação e ao medo na espera pela confirmação de alguns pontos no mercado.
 
 📖 Miniguia de Estudo
+
 🧩 Resumo do Tema
 
 A técnica de Oliver Velez é baseada na identificação de tendências e padrões gráficos que indicam continuidade ou reversão de movimento no mercado. O foco está em operar a favor da tendência, utilizando sinais claros de entrada com base em comportamento do preço.
 
 📌 Principais Conceitos
 FAB4: Tecnica de abertura de mercado após uma congestão ao final do dia anterior
+
 Bull 180: Padrão de continuação de alta após movimento corretivo.
+
 Bear 180: Padrão de continuação de baixa após movimento corretivo.
+
 Barra Elefante: Candle forte que indica grande força compradora ou vendedora.
 
 📚 Glossário
 Tendência: Direção predominante do mercado (alta ou baixa)
+
 Pullback: Movimento de correção dentro de uma tendência
+
 Rompimento: Quebra de um nível importante de preço
+
 Candle: Representação gráfica do preço em um período
 
 💡 Prompts Reutilizáveis
+
 "Quais são os padrões mais importantes dentre as técnicas utilizadas no método do Oliver Velez?"
+
 "Dê exemplos práticos de Bull 180 e Bear 180"
+
 "Quais erros evitar ao operar padrões gráficos?"
 
 🚀 Considerações Finais
