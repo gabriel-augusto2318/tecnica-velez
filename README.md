@@ -2,8 +2,6 @@
 
 🎯 Contexto e Objetivos
 
-Este projeto foi desenvolvido como parte de um desafio da DIO com o objetivo de explorar o uso da Inteligência Artificial como ferramenta de apoio ao aprendizado.
-
 O tema escolhido foi a técnica de trading de Oliver Velez, com foco nos principais padrões operacionais utilizados no mercado financeiro.
 
 Os principais objetivos deste estudo foram:
@@ -228,3 +226,5 @@ Candle: Representação gráfica do preço em um período
 Este projeto permitiu aprofundar o conhecimento na técnica de Oliver Velez, além de desenvolver habilidades no uso da Inteligência Artificial como ferramenta de estudo.
 
 Também foi possível perceber que a qualidade dos prompts influencia diretamente na qualidade das respostas, sendo essencial refiná-los para obter informações mais úteis e aplicáveis.
+
+Inteligencia Criada: https://notebooklm.google.com/notebook/27d3b81c-8424-44eb-bf26-3a596c18814b/preview
