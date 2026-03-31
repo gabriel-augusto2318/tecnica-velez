@@ -19,11 +19,17 @@ Criar um material de revisão estruturado para uso prático no trading.
 As seguintes fontes foram utilizadas como base para o estudo:
 
 https://www.youtube.com/watch?v=nJYWG7Y0g54
+
 https://www.youtube.com/watch?v=AiPtZU1uVc4
+
 https://www.youtube.com/watch?v=mhg6JfYr4SE
+
 https://www.youtube.com/watch?v=Xepgl2MMPTw
+
 https://www.youtube.com/watch?v=75u1v2EWFWQ
+
 https://www.youtube.com/watch?v=fhdydbuvxTU
+
 [PDF do curso da técnica Oliver Velez](https://github.com/gabriel-augusto2318/tecnica-velez/blob/main/iFundTraders%20-%20Oliver%20Velez.pdf)
 
 🤖 Engenharia de Prompts e Aprendizados
